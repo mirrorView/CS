@@ -1,2 +1,2 @@
 # CS
-CS -  learn-  record
+学习CS 过程记录
